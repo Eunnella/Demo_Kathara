@@ -6,7 +6,7 @@ A use case to demonstrate the possibilities with Kathara (Network Emulation)
 
 According to [the official website](https://kathara.org), Kathara is an open source container-based network emulation system for showing interactive demos/lessons, testing production networks in a sandbox environment, or developing new network protocols.
 
-![credit for the framework](images/copyright.png)
+![credit for the framework](https://github.com/Eunnella/Demo_Kathara/blob/72143ccb74fede46a75974f0d91b514f6340528f/Images/copyright.png)
 
 # Scenario
 
