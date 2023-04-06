@@ -1,4 +1,4 @@
-## config provisoire, on s'en inspire pour avoir le bon
+## config provisoire, on s'en inspire pour avoir la bonne
 
 ifconfig eth0 192.168.0.3 netmask 255.255.255.0 up
 ifconfig eth1 192.168.3.2 netmask 255.255.255.0 up
