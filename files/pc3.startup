@@ -1,4 +1,2 @@
-## config provisoire, on s'en inspire pour avoir la bonne
-
-ifconfig eth0 195.11.14.5 up
-route add default gw 195.11.14.1
+ifconfig eth0 192.168.24.2/24 up 
+route add default gw 192.168.24.1
