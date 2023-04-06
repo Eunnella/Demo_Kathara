@@ -1,0 +1,7 @@
+## config provisoir, on s'en inspire pour avoir le bon
+
+ifconfig eth0 192.168.0.1 netmask 255.255.255.0 up
+ifconfig eth1 192.168.2.1 netmask 255.255.255.0 up
+ifconfig eth2 192.168.3.1 netmask 255.255.255.0 up
+ifconfig eth3 192.168.4.1 netmask 255.255.255.0 up
+ifconfig eth4 192.168.5.1 netmask 255.255.255.0 up
