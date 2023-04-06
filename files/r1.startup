@@ -1,4 +1,4 @@
-## config provisoir, on s'en inspire pour avoir le bon
+## config provisoire, on s'en inspire pour avoir le bon
 
 ifconfig eth0 123.0.0.11/24 up
 ifconfig eth1 45.67.0.17/24 up

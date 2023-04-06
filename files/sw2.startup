@@ -1,4 +1,4 @@
-## config provisoir, on s'en inspire pour avoir le bon
+## config provisoire, on s'en inspire pour avoir le bon
 
 ifconfig eth0 10.0.0.1/30 up
 ifconfig eth1 10.0.0.5/30 up
