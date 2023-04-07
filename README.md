@@ -12,6 +12,8 @@ According to [the official website](https://kathara.org), Kathara is an open sou
 
 Hardening of a network infrastructure.
 
+![What I wanted](https://github.com/Eunnella/Demo_Kathara/blob/main/Images/What_I_wanted.png)
+
 # Usage
 
 Assuming you already installed Kathara and you have docker running on your device :
@@ -29,3 +31,5 @@ I was too ambitious considering the timeframe.
 Easy to understand but the GUI is nowhere to be found so I had to do it without visual representation of my work.
 The configurations to avoid broadcast storms cannot be done on the switches (I think that I just don't know how to do it).
 I do recommand the framework for an introduction to network infrastructures or simpler tasks on the subject.
+
+![What I got](https://github.com/Eunnella/Demo_Kathara/blob/main/Images/what_I_got.png)
